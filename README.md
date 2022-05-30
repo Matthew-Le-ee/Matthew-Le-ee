@@ -8,14 +8,20 @@
   <img align="left" alt="Matthew's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br/>
+<br />
+<br />
 
 Hi, I'm Matthew Oullanley Lee, a self-taught web developer and a student from indonesian. dreaming of becoming a good developer has been a dream for a long time and still on the way there. i always improve my skills, learn new technologies, and keep looking for opportunities for improve myself on many things. 
 
 <br />
+
+
 i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<br/>
+<br />
+<br />
+
+
 <img src = "./images/200w.webp" alt = "Code">
 
 <br/>
@@ -32,11 +38,20 @@ i learned a lot from the open-source community and i love how collaboration and 
     <img src = "./images/react.svg" alt = "react" width = "5%">
 <div>
 
-### Tools : 
+### Tools 
 <div>
     <img src = "./images/visual-studio-code.svg" width = "5%">
     <img src = "./images/npm.svg" width = "5%">
     <img src = "./images/yarn.svg" width = "5%">
 <div>
 
+
+<img src = "./images/Chart.png" alt = "Chart">
+
+
+
 ## Contact :
+---
+Phone Number : +62 82365366827
+E-mail       : <a href = "mailto : matthew168lee88@gmail.com">Contact Me<a>
+
