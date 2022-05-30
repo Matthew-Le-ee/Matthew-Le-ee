@@ -1,4 +1,4 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !
 
 <a href="https://www.instagram.com/lee_wenkuang/">
   <img align="left" alt="Matthew's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -20,23 +20,23 @@ i learned a lot from the open-source community and i love how collaboration and 
 
 <br/>
 
-### Technologies which i use :
----
-## Frontend Technologies
----
+## Technologies which i use :
+
+### Frontend Technologies
 <div>
-    <img src = "./images/html-5.svg" alt = "html" width = "3%">
-    <img src = "./images/css-3.svg"  alt = "css" width = "3%">
-    <img src = "./images/sass.svg"   alt = "sass" width = "3%">
-    <img src = "./images/javascript.svg" alt = "js" width = "3%">
-    <img src = "./images/es6.svg" alt = "es6" width = "3%">
-    <img src = "./images/react.svg" alt = "react" width = "3%">
+    <img src = "./images/html-5.svg" alt = "html" width = "5%">
+    <img src = "./images/css-3.svg"  alt = "css" width = "5%">
+    <img src = "./images/sass.svg"   alt = "sass" width = "5%">
+    <img src = "./images/javascript.svg" alt = "js" width = "5%">
+    <img src = "./images/es6.svg" alt = "es6" width = "5%">
+    <img src = "./images/react.svg" alt = "react" width = "5%">
 <div>
 
-## Tools : 
---- 
+### Tools : 
 <div>
-    <img src = "./images/visual-studio-code.svg" width = "3%">
-    <img src = "./images/npm.svg" width = "3%">
-    <img src = "./images/yarn.svg" width = "3%">
+    <img src = "./images/visual-studio-code.svg" width = "5%">
+    <img src = "./images/npm.svg" width = "5%">
+    <img src = "./images/yarn.svg" width = "5%">
 <div>
+
+## Contact :
