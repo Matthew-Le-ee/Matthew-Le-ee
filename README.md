@@ -52,5 +52,5 @@ i learned a lot from the open-source community and i love how collaboration and 
 ## Contact :
 ---
 Phone Number : +62 82365366827 <br />
-E-mail       : <a href = "mailto : matthew168lee88@gmail.com">Contact Me<a>
+E-mail       : <a href = "mailto : matthew168lee88@gmail.com">Contact Me </a>
 
