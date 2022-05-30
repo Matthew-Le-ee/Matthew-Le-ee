@@ -46,7 +46,7 @@ i learned a lot from the open-source community and i love how collaboration and 
 <br />
 <br />
 
-<img src = "./images/Chart.png" alt = "Chart">
+<img src = "./images/Chart.png" alt = "Chart" style = "width : 50%" >
 
 
 ## Contact :
