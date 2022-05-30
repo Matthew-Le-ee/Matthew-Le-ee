@@ -15,10 +15,8 @@ Hi, I'm Matthew Oullanley Lee, a self-taught web developer and a student from in
 
 <br />
 
-
 i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<br />
 <br />
 
 
@@ -45,13 +43,14 @@ i learned a lot from the open-source community and i love how collaboration and 
     <img src = "./images/yarn.svg" width = "5%">
 <div>
 
+<br />
+<br />
 
 <img src = "./images/Chart.png" alt = "Chart">
 
 
-
 ## Contact :
 ---
-Phone Number : +62 82365366827
+Phone Number : +62 82365366827 <br />
 E-mail       : <a href = "mailto : matthew168lee88@gmail.com">Contact Me<a>
 
