@@ -15,24 +15,28 @@ Hi, I'm Matthew Oullanley Lee, a self-taught web developer and a student from in
 <br />
 i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
+<br/>
 <img src = "./images/200w.webp" alt = "Code">
 
 <br/>
 
 ### Technologies which i use :
+---
 ## Frontend Technologies
+---
 <div>
-    <img src = "./images/html-5.svg">
-    <img src = "./images/css-3.svg">
-    <img src = "./images/sass.svg">
-    <img src = "./images/javascript.svg">
-    <img src = "./images/es6.svg">
-    <img src = "./images/react.svg">
-</div>
+    <img src = "./images/html-5.svg" alt = "html" width = "3%">
+    <img src = "./images/css-3.svg"  alt = "css" width = "3%">
+    <img src = "./images/sass.svg"   alt = "sass" width = "3%">
+    <img src = "./images/javascript.svg" alt = "js" width = "3%">
+    <img src = "./images/es6.svg" alt = "es6" width = "3%">
+    <img src = "./images/react.svg" alt = "react" width = "3%">
+<div>
 
-## Tools 
+## Tools : 
+--- 
 <div>
-    <img src = "./images/visual-studio-code.svg">
-    <img src = "./images/npm.svg">
-    <img src = "./images/yarn.svg">
-</div>
+    <img src = "./images/visual-studio-code.svg" width = "3%">
+    <img src = "./images/npm.svg" width = "3%">
+    <img src = "./images/yarn.svg" width = "3%">
+<div>
