@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/matthew-lee-83bb5221b/">
-  <img align="left" alt="Matthew's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Matthew's LinkedIN" width="22px" src="./image.png" />
 </a>
 
 <br />
